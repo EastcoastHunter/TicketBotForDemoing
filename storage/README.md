@@ -2,7 +2,7 @@
 
 > you will need to make a discord bot application and add your token in the ./storage/config.json
 
- > ```json
+```json
 {
   "token": "Your-Bot-Ticket-Goes-Here",
   "prefix": "Your-Desired-Prefix",
